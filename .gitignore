@@ -1,0 +1,12 @@
+# Variables de entorno (credenciales, claves secretas)
+.env
+.env.local
+.env.*.local
+
+# Dependencias / paquetes
+node_modules/
+
+# Archivos del sistema u otros
+.DS_Store
+dist/
+build/
