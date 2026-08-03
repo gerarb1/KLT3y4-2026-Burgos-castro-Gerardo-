@@ -1,0 +1,23 @@
+{
+  "name": "veterinaria-vidapet",
+  "version": "1.0.0",
+  "description": "Sistema de gestión para la Veterinaria Vidapet con TypeScript y Supabase",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": ["typescript", "supabase", "backend", "crud", "veterinaria"],
+  "author": "Vidapet Team",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
