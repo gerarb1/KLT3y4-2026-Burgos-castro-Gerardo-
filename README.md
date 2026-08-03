@@ -29,7 +29,10 @@ veterinaria/
 
 ---
 
-##  1. Estructura DDL en SQL (9 Tablas en 3FN para Supabase SQL Editor)
+##   diagrama  relacional de la base de datos 
+
+<img width="1068" height="704" alt="klt3diagrama" src="https://github.com/user-attachments/assets/c72108f5-e0d5-4449-9f88-38762e3a9212" />
+
 
 ## Bitácora 
 
